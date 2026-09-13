@@ -1,1 +1,1 @@
-# COMPROG_PASCUAL
+# Lab2_Fundamentals_Pascual
